@@ -17,12 +17,12 @@ Run Docker container
 Check Docker container is running, will list all containers that have not been deleted
 # Type command: docker ps -a
 
-# Take note of container ID 
+Take note of container ID 
 
-# Stop Docker container 
+Stop Docker container 
 # Type command: docker container stop containerid
 
-# Start Docker container
+Start Docker container
 # Type command: docker container start containerid
 
 
